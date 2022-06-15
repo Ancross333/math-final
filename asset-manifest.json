@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/math-final/static/css/main.76195ab2.css",
+    "main.js": "/math-final/static/js/main.667cb10a.js",
+    "index.html": "/math-final/index.html",
+    "main.76195ab2.css.map": "/math-final/static/css/main.76195ab2.css.map",
+    "main.667cb10a.js.map": "/math-final/static/js/main.667cb10a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76195ab2.css",
+    "static/js/main.667cb10a.js"
+  ]
+}
